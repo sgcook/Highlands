@@ -3,7 +3,7 @@
 ## Practice using CSS
 
 - Used odin-project.png as a guide
-- Was given font sizes, font colors, and background colors
+- Given font sizes, font colors, and background colors
 - Used flexbox
 
 # My personal tweaks
